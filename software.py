@@ -7,4 +7,7 @@ def click():
     print("CLICK!")
 
 
+def welcome():
+    print("new screen")
+
 
