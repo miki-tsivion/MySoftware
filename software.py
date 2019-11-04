@@ -11,3 +11,7 @@ def welcome():
     print("new screen")
 
 
+def commit():
+   print("Check commit")
+
+
